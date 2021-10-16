@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @animishpande
-- 👀 I’m interested in coding, video games, books and The Office
+- 👀 I’m interested in coding, android development, books and The Office
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me Instagram(@animish_), Twitter(@Animishpande1)
